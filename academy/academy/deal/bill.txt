@@ -1,0 +1,9 @@
+Date:2022-08-09.
+Buyer name:Ivan.
+Buyer phone number:+375336545986.
+Buyer email:vano3.9@mail.ru.
+Buyer date of birth:08-06-1996.
+Seller name:Peter.
+Purchase amount:30.3924.
+Buyer balance:969.6076.
+Seller balance:330.3924
